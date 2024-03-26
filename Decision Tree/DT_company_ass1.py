@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  5 15:34:04 2024
 
-@author: Kajal
-"""
 '''
 1.A cloth manufacturing company is interested to know about
  the different attributes contributing to high sales. 
