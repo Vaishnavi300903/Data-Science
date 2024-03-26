@@ -4,7 +4,11 @@ Created on Mon Jan 29 15:33:12 2024
 
 @author: Dell
 """
-
+"""
+Analysis of problem:
+Addressing the spam email detection problem through the implementation of a Naive Bayes classifier, solution has the potential to 
+deliver tangible benefits in terms of efficiency, security, and user satisfaction within email communication systems. 
+"""
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer,TfidfTransformer
