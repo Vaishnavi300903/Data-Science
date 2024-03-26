@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  1 09:31:25 2024
 
-@author: Kajal
-"""
 
 import pandas as pd
 df=pd.read_csv("D:/Data Science/6-Datasets/salaries.csv.xls")
