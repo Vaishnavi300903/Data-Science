@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 13 19:29:49 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 ''' 
 Problem Statement: Given is the diabetes dataset. Build an ensemble model to 
