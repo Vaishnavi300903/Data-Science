@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  5 15:51:45 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 
 '''Build a Decision Tree  on the fraud data. Treat those who have taxable_income <= 30000 as Risky
