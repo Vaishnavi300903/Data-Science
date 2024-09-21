@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 22 14:59:03 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 
 #multiple correlation regression analysis
