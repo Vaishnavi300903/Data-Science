@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  5 14:46:22 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 import pandas as pd
 from sklearn.datasets import load_iris
