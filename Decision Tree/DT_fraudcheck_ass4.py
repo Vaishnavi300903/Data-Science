@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  5 15:50:27 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 '''In the recruitment domain, HR faces the challenge of
  predicting if the candidate is faking their salary or not.
