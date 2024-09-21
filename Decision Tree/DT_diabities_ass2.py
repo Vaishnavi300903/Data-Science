@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  5 15:53:05 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 '''
 2. Divide the diabetes data into train and test datasets
