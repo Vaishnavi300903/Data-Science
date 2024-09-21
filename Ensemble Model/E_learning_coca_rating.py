@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 13 21:09:14 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 '''
 Problem Statement: A sample of global companies and their ratings are given 
