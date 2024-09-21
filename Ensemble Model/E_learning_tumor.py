@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 13 20:51:28 2024
 
-@author: Kajal
+@author: vaishnavi
 """
 ''' 
 Problem Statement: Most cancers form a lump called a tumour. 
